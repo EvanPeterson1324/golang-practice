@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7fdfa159-ced0-4a56-b8d5-7b23145907b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning/maps.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning/maps.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning/stucts.go" beforeDir="false" afterPath="$PROJECT_DIR$/learning/stucts.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +82,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="650" y="293" key="#Go" timestamp="1596134750833">
+    <state x="650" y="293" key="#Go" timestamp="1596137087476">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="650" y="293" key="#Go/-1920.-159.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1596134750833" />
+    <state x="650" y="293" key="#Go/-1920.-159.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1596137087476" />
     <state x="640" y="365" key="#Go_Modules" timestamp="1596134099463">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
