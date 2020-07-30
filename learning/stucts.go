@@ -9,8 +9,6 @@ type Corgi struct {
 	age int
 }
 
-
-
 func TestStructsExample() {
 	var corgi1 = Corgi{ "Jimmy", "Orange", 2 }
 
