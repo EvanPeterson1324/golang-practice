@@ -7,5 +7,5 @@ import (
 
 
 func main () {
-	learning.Test()
+	learning.TestStructsExample()
 }
