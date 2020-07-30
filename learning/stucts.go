@@ -3,13 +3,14 @@ package learning
 import "fmt"
 
 // We can define a struct like so. Structs are kind of like Objects (They are "a collection of fields")
+// The default value of a struct is nil
 type Corgi struct {
   name string
   color string
   age int
 }
 
-func TestStructsExample() {
+func StructsExample() {
   var corgi1 = Corgi{ "Jimmy", "Orange", 2 }
 
   // Or shorthand (with type inference) *Note* that Go does NOT use implicit type conversion
