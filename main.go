@@ -2,10 +2,11 @@ package main
 
 // We can import internal packages like so...
 import (
-  "github/EvanPeterson1324/golang-practice/learning"
+  "fmt"
+  "github/EvanPeterson1324/golang-practice/problems/projectEuler"
 )
 
 
 func main () {
-  learning.ArraysExample()
+  fmt.Println(projectEuler.CalculateSumOfEvenFibonacciNums())
 }
